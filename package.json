@@ -1,0 +1,14 @@
+{
+  "name": "potfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node-sass -w style/ -o dist/css --recursive"
+  },
+  "author": "Mouhib Benamor",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
